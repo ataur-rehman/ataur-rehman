@@ -9,80 +9,82 @@
   <div class="max-w-4xl mx-auto bg-white p-6 rounded-lg shadow-md">
    <div class="flex justify-between items-center mb-4">
     <h1 class="text-xl font-bold">
-     📁 ataurrehman-cs / README.md
+     📁 M0nica / README.md
     </h1>
     <button class="text-blue-500">
      Send feedback
     </button>
    </div>
    <h1 class="text-3xl font-bold mb-4">
-    Hi there! 👋
+    Hi, I'm Monica
+    <span class="wave">
+     👋🏾
+    </span>
+    <span class="woman-technologist">
+     👩🏾‍💻
+    </span>
    </h1>
    <div class="bg-purple-100 p-6 rounded-lg mb-4">
     <h2 class="text-2xl font-bold mb-2">
-     ATAUR REHMAN
+     MONICA POWELL
     </h2>
     <p class="text-xl text-gray-700">
-     Flutter and Dart Developer, Arduino Enthusiast
+     software engineer, content creator &amp; community organizer
     </p>
-    <img alt="Illustration of Ataur Rehman, a Flutter and Dart Developer, Arduino Enthusiast" class="mt-4" height="150" src="https://storage.googleapis.com/a1aa/image/7rY0MDDk55Ifwsu9w-4jZqiQTH6CflOag9dPudfJ4go.jpg" width="150"/>
+    <img alt="Illustration of Monica Powell, a software engineer, content creator, and community organizer, holding a laptop" class="mt-4" height="150" src="https://storage.googleapis.com/a1aa/image/SQvocIC8y1pAk_ZiWOBrHn5GPJXrp_sTwRo6NLA0Pro.jpg" width="150"/>
    </div>
    <p class="mb-4">
-    🔭 I’m currently working on Flutter and Dart for Android applications, along with Arduino-based projects.
-    <br/>
-    🌱 Currently learning and improving my skills in Dart, Flutter, C++, and Arduino.
-    <br/>
-    👯 Open to collaborating on mobile app development and hardware integration projects.
-    <br/>
-    🤔 Seeking guidance on advanced Flutter development and Arduino project optimization.
-    <br/>
-    💬 Feel free to ask me about Flutter, Dart, Android development, C++, and Arduino.
-    <br/>
-    📫 Reach me at:
-    <a class="text-blue-500" href="mailto:ataurrehman3636@gmail.com">
-     ataurrehman3636@gmail.com
+    I'm a software engineer who is passionate about making open-source more accessible, creating technology to elevate people, and building community. Some technologies I enjoy working with include ReactJS, Jamstack (JavaScript, APIs + Markup) and GraphQL. I recently was selected to be an inaugural
+    <a class="text-blue-500" href="#">
+     GitHub Star 🌟
     </a>
-    <br/>
-    💼 Connect with me on
-    <a class="text-blue-500" href="https://linkedin.com/in/ataurrehman-cs">
-     LinkedIn
+    based on my involvement in the tech community. My interest in the React ecosystem led me to launch
+    <a class="text-blue-500" href="#">
+     React Ladies
     </a>
-    <br/>
-    😄 Pronouns: He/Him
+    , a community for women and non-binary ReactJS developers.
    </p>
    <h2 class="text-xl font-bold mb-2">
-    🌐 Socials:
-   </h2>
-   <ul class="list-disc pl-5 mb-4">
-    <li class="mb-2">
-     <a class="text-blue-500" href="https://linkedin.com/in/ataurrehman-cs">
-      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white"/>
-     </a>
-    </li>
-    <li class="mb-2">
-     <a class="text-blue-500" href="mailto:ataurrehman3636@gmail.com">
-      <img alt="Email Badge" src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white"/>
-     </a>
-    </li>
-   </ul>
-   <h2 class="text-xl font-bold mb-2">
-    💻 Tech Stack:
+    Find me around the web
+    <span class="earth">
+     🌍
+    </span>
+    :
    </h2>
    <ul class="list-disc pl-5">
     <li class="mb-2">
-     <img alt="C++ Badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
+     Learning in public on
+     <a class="text-blue-500" href="#">
+      Twitch
+     </a>
+     or
+     <a class="text-blue-500" href="#">
+      monica.dev
+     </a>
+     <span class="video-camera">
+      📹
+     </span>
+     <span class="laptop">
+      💻
+     </span>
     </li>
     <li class="mb-2">
-     <img alt="Flutter Badge" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&amp;logo=Flutter&amp;logoColor=white"/>
+     Tinkering with interactions on
+     <a class="text-blue-500" href="#">
+      Codepen
+     </a>
+     <span class="joystick">
+      🕹
+     </span>
     </li>
     <li class="mb-2">
-     <img alt="Dart Badge" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&amp;logo=dart&amp;logoColor=white"/>
-    </li>
-    <li class="mb-2">
-     <img alt="Microsoft SQL Server Badge" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white"/>
-    </li>
-    <li class="mb-2">
-     <img alt="C++ Badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
+     Sharing updates on
+     <a class="text-blue-500" href="#">
+      LinkedIn
+     </a>
+     <span class="briefcase">
+      💼
+     </span>
     </li>
    </ul>
   </div>
