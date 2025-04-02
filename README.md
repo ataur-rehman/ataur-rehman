@@ -63,7 +63,7 @@
    <ul class="list-disc pl-5 mb-4">
     <li class="mb-2">
      <a class="text-blue-500" href="https://linkedin.com/in/ataurrehman-cs">
-      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white"/>
+      <img alt="LinkedIn Badge" src="https://img.shields.io/badge/LinkedIn-#0077B5.svg?logo=linkedin&amp;logoColor=white"/>
      </a>
     </li>
     <li class="mb-2">
@@ -77,19 +77,19 @@
    </h2>
    <ul class="list-disc pl-5">
     <li class="mb-2">
-     <img alt="C++ Badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
+     <img alt="C++ Badge" src="https://img.shields.io/badge/c++-#00599C.svg?style=for-the-badge&amp;logo=c++&amp;logoColor=white"/>
     </li>
     <li class="mb-2">
-     <img alt="Flutter Badge" src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&amp;logo=Flutter&amp;logoColor=white"/>
+     <img alt="Flutter Badge" src="https://img.shields.io/badge/Flutter-#02569B.svg?style=for-the-badge&amp;logo=Flutter&amp;logoColor=white"/>
     </li>
     <li class="mb-2">
-     <img alt="Dart Badge" src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&amp;logo=dart&amp;logoColor=white"/>
+     <img alt="Dart Badge" src="https://img.shields.io/badge/dart-#0175C2.svg?style=for-the-badge&amp;logo=dart&amp;logoColor=white"/>
     </li>
     <li class="mb-2">
-     <img alt="Microsoft SQL Server Badge" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&amp;logo=microsoft%20sql%20server&amp;logoColor=white"/>
+     <img alt="Microsoft SQL Server Badge" src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=for-the-badge&amp;logo=microsoft sql server&amp;logoColor=white"/>
     </li>
     <li class="mb-2">
-     <img alt="C++ Badge" src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&amp;logo=c%2B%2B&amp;logoColor=white"/>
+     <img alt="C++ Badge" src="https://img.shields.io/badge/c++-#00599C.svg?style=for-the-badge&amp;logo=c++&amp;logoColor=white"/>
     </li>
    </ul>
   </div>
