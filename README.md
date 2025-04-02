@@ -6,5 +6,5 @@
 🤔 Seeking guidance on advanced Flutter development and Arduino project optimization.  
 💬 Feel free to ask me about Flutter, Dart, Android development, C++, and Arduino.  
 📫 Reach me at: **ataurrehman3636@gmail.com**  
-💼 Connect with me on **[LinkedIn](www.linkedin.com/in/ataurrehman-cs)**  
+💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/ataurrehman-cs/)
 😄 Pronouns: **He/Him**  
