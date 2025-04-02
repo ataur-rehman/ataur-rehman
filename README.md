@@ -1,6 +1,5 @@
 <html>
 <head>
-  <script src="https://cdn.tailwindcss.com"></script>
   <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet"/>
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
 </head>
@@ -9,7 +8,7 @@
   <h1 class="text-4xl font-bold mb-6 text-center">Hi there! 👋</h1>
     
   <div class="bg-purple-200 p-8 rounded-lg mb-6 text-center">
-      <h2 class="text-3xl font-bold text-gray-900">ATAUR REHMAN</h2>
+      <h2 class="text-3xl font-bold text-gray-900">ATA UR REHMAN</h2>
       <p class="text-xl text-gray-700 mt-2">Flutter & Dart Developer | Arduino Enthusiast</p>
       <img class="mt-4 rounded-full mx-auto" src="https://storage.googleapis.com/a1aa/image/7rY0MDDk55Ifwsu9w-4jZqiQTH6CflOag9dPudfJ4go.jpg" width="150" height="150" alt="Ataur Rehman"/>
     </div>
