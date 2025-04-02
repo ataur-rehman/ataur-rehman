@@ -5,11 +5,6 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap" rel="stylesheet"/>
 </head>
 <body class="font-roboto bg-gray-100 p-6">
-  <div class="max-w-4xl mx-auto bg-white p-8 rounded-lg shadow-lg">
-    <div class="flex justify-between items-center mb-6">
-      <h1 class="text-2xl font-bold text-gray-800">📁 ataurrehman-cs / README.md</h1>
-      <button class="text-blue-600 hover:underline">Send feedback</button>
-    </div>
     
   <h1 class="text-4xl font-bold mb-6 text-center">Hi there! 👋</h1>
     
