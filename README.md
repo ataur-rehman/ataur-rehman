@@ -9,16 +9,16 @@
     
   <div class="bg-purple-200 p-8 rounded-lg mb-6 text-center">
       <h2 class="text-3xl font-bold text-gray-900">ATA UR REHMAN</h2>
-      <p class="text-xl text-gray-700 mt-2">Flutter & Dart Developer | Arduino Enthusiast</p>
+      <p class="text-xl text-gray-700 mt-2">Full-Stack Developer | MERN & Flutter | Built Real-World Applications</p>
       <img class="mt-4 rounded-full mx-auto" src="https://storage.googleapis.com/a1aa/image/7rY0MDDk55Ifwsu9w-4jZqiQTH6CflOag9dPudfJ4go.jpg" width="150" height="150" alt="Ataur Rehman"/>
     </div>
     
   <p class="mb-6 text-gray-800 leading-relaxed">
-      🔭 Currently working on Flutter and Dart for Android applications, along with Arduino-based projects.<br>
-      🌱 Learning and improving skills in Dart, Flutter, C++, and Arduino.<br>
-      👯 Open to collaborating on mobile app development and hardware integration projects.<br>
-      🤔 Seeking guidance on advanced Flutter development and Arduino project optimization.<br>
-      💬 Ask me about Flutter, Dart, Android development, C++, and Arduino.<br>
+      🔭 Currently working on cross-platform applications with Flutter, React, and Tauri.<br>
+      🌱 Expanding skills in MERN Stack (MongoDB, Express.js, React, Node.js) and scalable full-stack solutions.<br>
+      👯 Open to collaborating on innovative web and mobile applications.<br>
+      🤔 Exploring advanced system design, cloud integrations, and real-time applications.<br>
+      💬 Ask me about Flutter, React, Node.js, TypeScript, and full-stack development.<br>
       📫 Reach me at: <a class="text-blue-600 hover:underline" href="mailto:ataurrehman3636@gmail.com">ataurrehman3636@gmail.com</a><br>
       💼 Connect on <a class="text-blue-600 hover:underline" href="https://linkedin.com/in/ataurrehman-cs">LinkedIn</a><br>
       😄 Pronouns: He/Him
@@ -28,14 +28,20 @@
     <div class="flex space-x-4 mb-6">
       <a href="https://linkedin.com/in/ataurrehman-cs"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
       <a href="mailto:ataurrehman3636@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+      <a href="https://github.com/ataur-rehman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
     </div>
     
   <h2 class="text-2xl font-bold mb-4 text-gray-900">💻 Tech Stack:</h2>
     <div class="grid grid-cols-3 gap-4">
-      <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+      <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
+      <img src="https://img.shields.io/badge/MongoDB-4EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
       <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-      <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server"/>
+      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+      <img src="https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
+      <img src="https://img.shields.io/badge/Tauri-FFC131.svg?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri"/>
     </div>
   </div>
 </body>
