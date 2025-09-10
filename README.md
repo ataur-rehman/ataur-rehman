@@ -9,7 +9,7 @@
     
   <div class="bg-purple-200 p-8 rounded-lg mb-6 text-center">
       <h2 class="text-3xl font-bold text-gray-900">ATA UR REHMAN</h2>
-      <p class="text-xl text-gray-700 mt-2">Full-Stack Developer | MERN & Flutter | Built Real-World Applications</p>
+      <p class="text-xl text-gray-700 mt-2">Full-Stack Developer | Flutter & MERN | Built Real-World Applications</p>
       <img class="mt-4 rounded-full mx-auto" src="https://storage.googleapis.com/a1aa/image/7rY0MDDk55Ifwsu9w-4jZqiQTH6CflOag9dPudfJ4go.jpg" width="150" height="150" alt="Ataur Rehman"/>
     </div>
     
