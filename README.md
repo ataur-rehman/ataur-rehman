@@ -9,37 +9,55 @@
     
   <div class="bg-purple-200 p-8 rounded-lg mb-6 text-center">
       <h2 class="text-3xl font-bold text-gray-900">ATA UR REHMAN</h2>
-      <p class="text-xl text-gray-700 mt-2">Full-Stack Developer | Flutter & MERN | Built Real-World Applications</p>
+      <p class="text-xl text-gray-700 mt-2">
+        Associate Software Engineer | Python Backend Developer | Django, FastAPI & Flutter
+      </p>
     </div>
     
   <p class="mb-6 text-gray-800 leading-relaxed">
-      🔭 Currently working on cross-platform applications with Flutter, React, and Tauri.<br>
-      🌱 Expanding skills in MERN Stack (MongoDB, Express.js, React, Node.js) and scalable full-stack solutions.<br>
-      👯 Open to collaborating on innovative web and mobile applications.<br>
-      🤔 Exploring advanced system design, cloud integrations, and real-time applications.<br>
-      💬 Ask me about Flutter, React, Node.js, TypeScript, and full-stack development.<br>
-      📫 Reach me at: <a class="text-blue-600 hover:underline" href="mailto:ataurrehman3636@gmail.com">ataurrehman3636@gmail.com</a><br>
-      💼 Connect on <a class="text-blue-600 hover:underline" href="https://linkedin.com/in/ataurrehman-cs">LinkedIn</a><br>
+      🔭 Currently building scalable backend systems using Python, Django, and FastAPI.<br>
+      📱 Experienced in cross-platform mobile development with Flutter, Dart, and Firebase.<br>
+      🌱 Strengthening expertise in RESTful APIs, PostgreSQL, backend architecture, and system design.<br>
+      👯 Open to collaborating on backend-focused and full-stack applications.<br>
+      💬 Ask me about Python, Django, FastAPI, Flutter, Firebase, and REST APIs.<br>
+      📫 Reach me at: 
+      <a class="text-blue-600 hover:underline" href="mailto:ataurrehman3636@gmail.com">
+        ataurrehman3636@gmail.com
+      </a><br>
+      💼 Connect on 
+      <a class="text-blue-600 hover:underline" href="https://linkedin.com/in/ataurrehman-cs">
+        LinkedIn
+      </a><br>
       😄 Pronouns: He/Him
     </p>
     
-  <h2 class="text-2xl font-bold mb-4 text-gray-900">🌐 Socials:</h2>
-    <div class="flex space-x-4 mb-6">
-      <a href="https://linkedin.com/in/ataurrehman-cs"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-      <a href="mailto:ataurrehman3636@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-      <a href="https://github.com/ataur-rehman"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-    </div>
-    
   <h2 class="text-2xl font-bold mb-4 text-gray-900">💻 Tech Stack:</h2>
-    <div class="grid grid-cols-3 gap-4">
-      <img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter"/>
-      <img src="https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
-      <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-      <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-      <img src="https://img.shields.io/badge/Node.js-43853D.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"/>
-      <img src="https://img.shields.io/badge/SQLite-07405E.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite"/>
-      <img src="https://img.shields.io/badge/Tauri-FFC131.svg?style=for-the-badge&logo=tauri&logoColor=black" alt="Tauri"/>
-    </div>
+
+  <h3 class="text-xl font-semibold mb-2">Backend</h3>
+  <div class="grid grid-cols-3 gap-4 mb-6">
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+      <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+      <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
+      <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+      <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=api&logoColor=white" alt="REST API"/>
+      <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   </div>
+
+  <h3 class="text-xl font-semibold mb-2">Mobile & Frontend</h3>
+  <div class="grid grid-cols-3 gap-4 mb-6">
+      <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+      <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" alt="Dart"/>
+      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+      <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  </div>
+
+  <h3 class="text-xl font-semibold mb-2">Tools</h3>
+  <div class="grid grid-cols-3 gap-4">
+      <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+      <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+      <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
+  </div>
+
 </body>
 </html>
