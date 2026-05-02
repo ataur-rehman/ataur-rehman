@@ -18,7 +18,6 @@
       🔭 Currently building <b>production-grade SaaS systems</b> using Node.js (NestJS), React, and Python.<br>
       🤖 Experienced in integrating <b>AI systems (LLMs, RAG, chatbots)</b> into real-world applications.<br>
       ⚙️ Strong focus on <b>backend architecture, API design, and scalable system development</b>.<br>
-      🚀 Built <b>AION</b> — an AI-powered Instagram automation SaaS platform with real-time messaging, campaign workflows, and AI chatbot integration.<br>
       🧠 Experienced with <b>event-driven systems</b> using webhooks, queues, and cron jobs for scalable processing.<br>
       🔗 Worked with <b>Meta Graph API</b>, authentication systems (JWT, OAuth), and third-party integrations.<br>
       📦 Designed and optimized <b>relational databases (PostgreSQL + Prisma)</b> for production applications.<br>
