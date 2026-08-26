@@ -35,19 +35,6 @@
       😄 Pronouns: He/Him
     </p>
     
-  <h2 class="text-2xl font-bold mb-4 text-gray-900">🚀 Featured Project</h2>
-  <div class="bg-white p-6 rounded-lg mb-6 shadow">
-      <h3 class="text-xl font-bold">AION — AI-Powered Instagram Automation SaaS</h3>
-      <p class="mt-2 text-gray-700">
-        A full-stack SaaS platform that automates Instagram DMs, comments, and customer engagement using AI.
-      </p>
-      <ul class="mt-3 text-gray-700 list-disc ml-6">
-          <li>Built with NestJS, Next.js, PostgreSQL, and Prisma</li>
-          <li>Integrated Meta Graph API with webhook-based real-time processing</li>
-          <li>Implemented LLM-based chatbot (LLaMA / Groq) for automated conversations</li>
-          <li>Designed scalable backend using queues, cron jobs, and event-driven architecture</li>
-      </ul>
-  </div>
     
   <h2 class="text-2xl font-bold mb-4 text-gray-900">💻 Tech Stack:</h2>
 
