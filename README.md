@@ -41,7 +41,6 @@
   <div class="bg-gray-900 text-white p-8 rounded-lg mb-8">
     <h2 class="text-3xl font-bold mb-3">🚀 What I'm Building</h2>
 
-```
 <h3 class="text-2xl font-bold mb-2">AION — AI Operations Network</h3>
 
 <p class="text-gray-300 leading-relaxed mb-4">
@@ -79,7 +78,6 @@
     🌐 Explore AION →
   </a>
 </p>
-```
 
   </div>
 
