@@ -75,7 +75,7 @@
     class="text-blue-400 hover:underline font-bold"
     href="https://aion-0-frontend.vercel.app/"
   >
-    🌐 Explore AION →
+    Explore AION →
   </a>
 </p>
 
