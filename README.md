@@ -55,13 +55,13 @@
 </p>
 
 <ul class="text-gray-300 leading-relaxed mb-5">
-  <li>🤖 AI-powered customer support and sales automation</li>
-  <li>💬 Unified WhatsApp & Instagram conversations</li>
-  <li>🛒 E-commerce and order automation</li>
-  <li>🧠 AI business insights and contextual customer understanding</li>
-  <li>⚡ Workflow automation and AI agents</li>
-  <li>📊 Business analytics and operational reporting</li>
-  <li>🔗 Integrations with platforms such as Shopify and Meta</li>
+  <li> AI-powered customer support and sales automation</li>
+  <li> Unified WhatsApp & Instagram conversations</li>
+  <li> E-commerce and order automation</li>
+  <li> AI business insights and contextual customer understanding</li>
+  <li> Workflow automation and AI agents</li>
+  <li> Business analytics and operational reporting</li>
+  <li> Integrations with platforms such as Shopify and Meta</li>
 </ul>
 
 <p class="text-gray-300">
