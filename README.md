@@ -11,12 +11,12 @@
   <div class="bg-purple-200 p-8 rounded-lg mb-6 text-center">
     <h2 class="text-3xl font-bold text-gray-900">ATA UR REHMAN</h2>
     <p class="text-xl text-gray-700 mt-2">
-      Software Engineer | Full-Stack & AI Systems | Node.js, React, LLMs
+      AI Engineer | Full-Stack & AI Systems | Python, AI/ML, LLMs
     </p>
   </div>
 
   <p class="mb-6 text-gray-800 leading-relaxed">
-    🔭 Currently building <b>production-grade SaaS systems</b> using Node.js (NestJS), React, and Python.<br>
+    🔭 Currently building <b>production-grade SaaS systems</b> using FastAPI, OpenAI, React, and Python.<br>
     🤖 Experienced in integrating <b>AI systems (LLMs, RAG, chatbots)</b> into real-world applications.<br>
     ⚙️ Strong focus on <b>backend architecture, API design, and scalable system development</b>.<br>
     🧠 Experienced with <b>event-driven systems</b> using webhooks, queues, and cron jobs for scalable processing.<br>
