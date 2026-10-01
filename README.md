@@ -32,6 +32,7 @@
     💼 Connect on
     <a class="text-blue-600 hover:underline" href="https://linkedin.com/in/ataurrehman-cs">
       LinkedIn
+      </a><br>
     🖥️ Portfolio:
     <a class="text-blue-600 hover:underline" href="https://www.ataurrehman.dev">
       www.ataurrehman.dev
